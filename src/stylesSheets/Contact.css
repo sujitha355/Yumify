@@ -1,0 +1,118 @@
+.contact-container1 {
+    max-width: 1200px; 
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 80px;
+}
+
+.contact-h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+.contact-content1 {
+    display: flex;
+    flex-direction: column; /* Stacks form/details and map on small screens */
+    gap: 20px; /* Adds space between form/details and map */
+}
+
+.contact-form1 {
+    display: flex;
+    flex-direction: column; /* Align form and details vertically */
+    width: 100%; /* Ensure it takes full width on smaller screens */
+}
+
+.form-group1 {
+    margin-bottom: 15px;
+}
+
+.contact-lable1 {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+
+.contact-textarea1 {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: vertical;
+}
+
+.contact-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.contact-btn:hover {
+    background-color: #0056b3;
+}
+
+.contact-details {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+}
+
+.contact-details-h3 {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+}
+
+.contact-details-p {
+    margin: 5px 0;
+    font-size: 1.2rem;
+}
+
+.contact-details-p a{
+    font-size: 1.2rem;
+}
+
+.map-container1 {
+    display: flex;
+    justify-content: center; 
+    width: 100%; 
+}
+
+@media (min-width: 768px) {
+    .contact-content1 {
+        flex-direction: row; /* Aligns form/details and map side by side on larger screens */
+        justify-content: space-between; /* Creates space between form/details and map */
+    }
+
+    .contact-form1 {
+        width: 45%; /* Ensures form/details take up 45% of the width */
+    }
+
+    .map-container1 {
+        width: 50%; /* Ensures map takes up 50% of the width */
+    }
+}
+
+@media (max-width: 480px) {
+    .contact-h2 {
+        font-size: 1.2em;
+    }
+
+    .contact-textarea1 {
+        font-size: 14px;
+    }
+
+    .contact-btn {
+        font-size: 14px;
+    }
+}
