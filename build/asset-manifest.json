@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf430e2e.css",
+    "main.js": "/static/js/main.9a208f6d.js",
+    "static/js/453.a404ca78.chunk.js": "/static/js/453.a404ca78.chunk.js",
+    "static/media/ramen.webp": "/static/media/ramen.0b6d4b6dc1bebbf5c086.webp",
+    "static/media/cheeseCake.webp": "/static/media/cheeseCake.6a98c178e91a9bc26eb9.webp",
+    "static/media/chocolateBrownie.webp": "/static/media/chocolateBrownie.843d4c076006f75d5214.webp",
+    "static/media/friedEggsAvacado.webp": "/static/media/friedEggsAvacado.5910d900da79a1865fdd.webp",
+    "static/media/pancake.webp": "/static/media/pancake.c8494337a4626da138b3.webp",
+    "static/media/chickenBiriyani.webp": "/static/media/chickenBiriyani.81b71c6d356d7d7f1d72.webp",
+    "static/media/cpizza.webp": "/static/media/cpizza.7d5bd6f3fb4a53d36196.webp",
+    "static/media/chef1-removebg-preview.png": "/static/media/chef1-removebg-preview.e5c03969a3ae4d744545.png",
+    "static/media/logo.png": "/static/media/logo.4fc726e4602d15ede960.png",
+    "static/media/about-chef.png": "/static/media/about-chef.cf6f2c8d39a5fdae693a.png",
+    "static/media/parallaxbg.jpeg": "/static/media/parallaxbg.1eb6da7ed983baa01782.jpeg",
+    "static/media/preson3.jpeg": "/static/media/preson3.c2ec1cd66edb79caa836.jpeg",
+    "static/media/person1.jpeg": "/static/media/person1.d1623fe61d23494df8dc.jpeg",
+    "static/media/person2.jpeg": "/static/media/person2.c265638228603f75441a.jpeg",
+    "static/media/person4.jpeg": "/static/media/person4.df255f35cc607e220bbd.jpeg",
+    "index.html": "/index.html",
+    "main.cf430e2e.css.map": "/static/css/main.cf430e2e.css.map",
+    "main.9a208f6d.js.map": "/static/js/main.9a208f6d.js.map",
+    "453.a404ca78.chunk.js.map": "/static/js/453.a404ca78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf430e2e.css",
+    "static/js/main.9a208f6d.js"
+  ]
+}
